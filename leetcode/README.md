@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0908-middle-of-the-linked-list) |
+## Array
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
