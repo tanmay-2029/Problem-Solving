@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## String
+|  |
+| ------- |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2168-check-if-numbers-are-ascending-in-a-sentence) |
 <!---LeetCode Topics End-->
