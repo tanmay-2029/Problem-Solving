@@ -22,5 +22,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2168-check-if-numbers-are-ascending-in-a-sentence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
