@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
+| [1297-maximum-number-of-balloons](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1297-maximum-number-of-balloons) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2168-check-if-numbers-are-ascending-in-a-sentence) |
 ## Dynamic Programming
 |  |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1297-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
