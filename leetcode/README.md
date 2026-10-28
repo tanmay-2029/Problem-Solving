@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/4084-maximize-sum-of-squares-of-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1297-maximum-number-of-balloons) |
+## Math
+|  |
+| ------- |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/4084-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
