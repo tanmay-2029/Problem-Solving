@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
+| [0328-odd-even-linked-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
