@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1646-kth-missing-positive-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1646-kth-missing-positive-number) |
