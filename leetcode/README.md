@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0908-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
