@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
+| [0851-goat-latin](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0851-goat-latin) |
 | [1297-maximum-number-of-balloons](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1297-maximum-number-of-balloons) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2168-check-if-numbers-are-ascending-in-a-sentence) |
 ## Dynamic Programming
