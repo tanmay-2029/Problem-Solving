@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
+| [0228-summary-ranges](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0228-summary-ranges) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1646-kth-missing-positive-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2503-longest-subarray-with-maximum-bitwise-and) |
