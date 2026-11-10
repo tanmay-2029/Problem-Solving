@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-goat-latin](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0851-goat-latin) |
 | [1297-maximum-number-of-balloons](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1297-maximum-number-of-balloons) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [4087-maximum-substrings-with-distinct-start](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/4087-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1297-maximum-number-of-balloons) |
+| [4087-maximum-substrings-with-distinct-start](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/4087-maximum-substrings-with-distinct-start) |
 ## Counting
 |  |
 | ------- |
