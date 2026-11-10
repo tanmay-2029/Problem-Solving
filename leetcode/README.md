@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0866-rectangle-overlap](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0866-rectangle-overlap) |
 | [1070-convert-to-base-2](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1070-convert-to-base-2) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/4084-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0088-merge-sorted-array) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
