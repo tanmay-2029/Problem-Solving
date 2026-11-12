@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0908-middle-of-the-linked-list) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
@@ -101,4 +103,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0866-rectangle-overlap) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
