@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [0851-goat-latin](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0851-goat-latin) |
