@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
