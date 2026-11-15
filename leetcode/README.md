@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0908-middle-of-the-linked-list) |
 ## Array
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0143-reorder-list) |
 <!---LeetCode Topics End-->
