@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0866-rectangle-overlap](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0866-rectangle-overlap) |
 | [1070-convert-to-base-2](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1070-convert-to-base-2) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1817-calculate-money-in-leetcode-bank) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/4084-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
