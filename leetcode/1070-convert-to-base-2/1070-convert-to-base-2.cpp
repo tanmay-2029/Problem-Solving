@@ -18,6 +18,7 @@ public:
             sk.push(dig);
         }
         while(k);
+        
         while(!sk.empty()){
             s+=to_string(sk.top());
             sk.pop();
