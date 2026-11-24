@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [0909-stone-game](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0909-stone-game) |
 | [1646-kth-missing-positive-number](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1646-kth-missing-positive-number) |
+| [1944-truncate-sentence](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1944-truncate-sentence) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Binary Search
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1297-maximum-number-of-balloons) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1756-minimum-deletions-to-make-string-balanced) |
+| [1944-truncate-sentence](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1944-truncate-sentence) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2243-check-if-all-as-appears-before-all-bs) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/4087-maximum-substrings-with-distinct-start) |
