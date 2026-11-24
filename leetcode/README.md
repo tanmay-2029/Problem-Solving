@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-goat-latin](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0851-goat-latin) |
 | [1297-maximum-number-of-balloons](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1297-maximum-number-of-balloons) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1756-minimum-deletions-to-make-string-balanced) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2243-check-if-all-as-appears-before-all-bs) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/4087-maximum-substrings-with-distinct-start) |
@@ -60,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [0909-stone-game](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0909-stone-game) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
 | ------- |
