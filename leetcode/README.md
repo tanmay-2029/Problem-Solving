@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0909-stone-game) |
 | [1646-kth-missing-positive-number](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1646-kth-missing-positive-number) |
 | [1944-truncate-sentence](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1944-truncate-sentence) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Binary Search
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0909-stone-game) |
 | [1070-convert-to-base-2](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1070-convert-to-base-2) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1817-calculate-money-in-leetcode-bank) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/4084-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
@@ -163,4 +165,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0054-spiral-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
