@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1817-calculate-money-in-leetcode-bank) |
 | [2083-three-divisors](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2491-smallest-even-multiple) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/4084-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2491-smallest-even-multiple) |
 ## Euclidean Algorithm
 |  |
 | ------- |
