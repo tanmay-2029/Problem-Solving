@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0228-summary-ranges) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
+| [0566-reshape-the-matrix](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0566-reshape-the-matrix) |
 | [0909-stone-game](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0909-stone-game) |
 | [1646-kth-missing-positive-number](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1646-kth-missing-positive-number) |
 | [1944-truncate-sentence](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1944-truncate-sentence) |
@@ -166,10 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0566-reshape-the-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0566-reshape-the-matrix) |
 ## Number Theory
 |  |
 | ------- |
