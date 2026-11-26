@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0062-unique-paths) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [0909-stone-game](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0909-stone-game) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1756-minimum-deletions-to-make-string-balanced) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0062-unique-paths) |
 | [0866-rectangle-overlap](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0866-rectangle-overlap) |
 | [0909-stone-game](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0909-stone-game) |
 | [1070-convert-to-base-2](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1070-convert-to-base-2) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2083-three-divisors) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0062-unique-paths) |
 <!---LeetCode Topics End-->
