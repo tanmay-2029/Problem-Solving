@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [0851-goat-latin](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0851-goat-latin) |
+| [1250-longest-common-subsequence](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1297-maximum-number-of-balloons) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1756-minimum-deletions-to-make-string-balanced) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0062-unique-paths) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [0909-stone-game](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0909-stone-game) |
+| [1250-longest-common-subsequence](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1250-longest-common-subsequence) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
