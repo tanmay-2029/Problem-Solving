@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2219-maximum-number-of-words-found-in-sentences) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/2503-longest-subarray-with-maximum-bitwise-and) |
+| [4008-restore-finishing-order](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/4008-restore-finishing-order) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/1297-maximum-number-of-balloons) |
+| [4008-restore-finishing-order](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/4008-restore-finishing-order) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/tanmay-2029/Problem-Solving/tree/master/LeetCode/4087-maximum-substrings-with-distinct-start) |
 ## Counting
 |  |
